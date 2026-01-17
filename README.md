@@ -9,13 +9,18 @@ This repository contains **solutions, methodologies, and write-ups** from our pa
 - Reverse engineering  
 - Capture The Flag (CTF) challenges  
 
+Our work follows **engineering-style problem solving practices** inspired by:
+
+- 🏛️ **MIT (Massachusetts Institute of Technology)** problem-solving culture  
+- 🎓 **University of Colombo** computing and engineering academic standards  
+
 Rather than focusing only on final answers, our approach emphasized:
 
 - ✅ Clear reasoning  
 - ✅ Structured methodologies  
-- ✅ Reproducible solutions  
+- ✅ Reproducible and explainable solutions  
 
-This closely reflects **real-world software engineering practices**.
+This closely reflects **real-world software engineering and academic workflows**.
 
 ---
 
@@ -36,6 +41,17 @@ This closely reflects **real-world software engineering practices**.
 
 ---
 
+## 🏫 Academic Context
+
+This project reflects the **learning culture and standards** inspired by:
+
+- **MIT (Massachusetts Institute of Technology)** – analytical problem solving & algorithmic thinking  
+- **University of Colombo** – structured computing education and engineering methodology  
+
+The intention is to maintain **clarity, correctness, and academic discipline** in all solutions.
+
+---
+
 ## 📂 Repository Contents
 
 - 📌 **Competitive Programming**  
@@ -47,7 +63,7 @@ This closely reflects **real-world software engineering practices**.
   - Challenge write-ups  
 
 - 🧪 **Methodology**  
-  - Step-by-step explanations of problem-solving approaches  
+  - Step-by-step explanation of problem-solving approaches  
 
 - 🖼️ **Screenshots**  
   - Execution results and supporting evidence  
@@ -63,9 +79,9 @@ Our problem-solving approach included:
 - Writing readable and explainable code  
 - Validating solutions against constraints and edge cases  
 
-This mirrors **real-world engineering workflows** where:
+This mirrors **real-world and academic engineering workflows** where:
 
-> Clarity, correctness, and justification matter more than just getting the output.
+> Clarity, correctness, and justification matter more than just producing output.
 
 ---
 
@@ -74,6 +90,8 @@ This mirrors **real-world engineering workflows** where:
 This repository is intended **strictly for educational purposes**.
 
 All solutions represent **our understanding and approach during the competition period**.
+
+This project is **not officially affiliated with MIT or the University of Colombo**.
 
 ---
 
