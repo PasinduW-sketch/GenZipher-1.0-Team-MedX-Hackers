@@ -14,15 +14,11 @@ Result: 46th place out of 93 teams
 
 👥 Team Members
 
-Dylan Sajith
-
-Warnesuriye R Dineth
-
-Meditha Nadulee
-
-Dinethma Hatharasinghe
-
 Pasindu Harsha (Team Leader)
+Dylan Sajith
+Dineth Meditha 
+Nadulee Dinethma 
+
 
 📂 Repository Contents
 
