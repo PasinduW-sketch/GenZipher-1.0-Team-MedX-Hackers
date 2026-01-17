@@ -1,6 +1,12 @@
-# 🧠 GenZipher-1.0-Team-MedX-Hackers
+# 🧠 GenZipher-1.0 – Competitive Programming & CTF  
+## Team MedX Hackers | Inspired by MIT | University of Colombo
 
-## GenZipher 1.0 – Competitive Programming & CTF
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![University](https://img.shields.io/badge/University-University%20of%20Colombo-blue.svg)
+![Inspired](https://img.shields.io/badge/Inspired%20By-MIT-maroon.svg)
+![Competition](https://img.shields.io/badge/Competition-GenZipher%201.0-red.svg)
+![Category](https://img.shields.io/badge/Category-CP%20%26%20CTF-purple.svg)
+
 
 This repository contains **solutions, methodologies, and write-ups** from our participation in **GenZipher 1.0**, a competition focused on:
 
