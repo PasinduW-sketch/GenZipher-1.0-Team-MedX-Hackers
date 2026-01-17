@@ -1,50 +1,86 @@
-# GenZipher-1.0-Team-MedX-Hackers
+# 🧠 GenZipher-1.0-Team-MedX-Hackers
 
-GenZipher 1.0 – Competitive Programming & CTF
+## GenZipher 1.0 – Competitive Programming & CTF
 
-This repository contains solutions, methodologies, and write-ups from our participation in GenZipher 1.0, a competition focused on problem-solving, algorithmic thinking, and reverse engineering.
+This repository contains **solutions, methodologies, and write-ups** from our participation in **GenZipher 1.0**, a competition focused on:
 
-Rather than focusing only on final answers, our approach emphasized clear reasoning, structured methodologies, and reproducible solutions, closely reflecting real-world software engineering practices.
+- Problem-solving  
+- Algorithmic thinking  
+- Reverse engineering  
+- Capture The Flag (CTF) challenges  
 
-🏆 Team Information
+Rather than focusing only on final answers, our approach emphasized:
 
-Team Name: MedX Hackers
-Competition: GenZipher 1.0
-Result: 46th place out of 93 teams
+- ✅ Clear reasoning  
+- ✅ Structured methodologies  
+- ✅ Reproducible solutions  
 
-👥 Team Members
+This closely reflects **real-world software engineering practices**.
 
-Pasindu Harsha (Team Leader)
-Dylan Sajith
-Dineth Meditha 
-Nadulee Dinethma 
+---
 
+## 🏆 Team Information
 
-📂 Repository Contents
+- **Team Name:** MedX Hackers  
+- **Competition:** GenZipher 1.0  
+- **Result:** 46th place out of 93 teams  
 
-Competitive Programming: Algorithmic solutions (Easy → Hard)
+---
 
-CTF: Binary analysis, steganography, and challenge write-ups
+## 👥 Team Members
 
-Methodology: Step-by-step explanation of problem-solving approaches
+- **Pasindu Harsha** (Team Leader)  
+- Dylan Sajith  
+- Dineth Meditha  
+- Nadulee Dinethma  
 
-Screenshots: Execution results and supporting evidence
+---
 
-🧠 Methodology
+## 📂 Repository Contents
+
+- 📌 **Competitive Programming**  
+  - Algorithmic solutions (Easy → Hard)
+
+- 🕵️ **CTF**  
+  - Binary analysis  
+  - Steganography  
+  - Challenge write-ups  
+
+- 🧪 **Methodology**  
+  - Step-by-step explanations of problem-solving approaches  
+
+- 🖼️ **Screenshots**  
+  - Execution results and supporting evidence  
+
+---
+
+## 🧠 Our Methodology
 
 Our problem-solving approach included:
 
-Breaking problems into smaller logical components
+- Breaking problems into smaller logical components  
+- Selecting suitable algorithms and data structures  
+- Writing readable and explainable code  
+- Validating solutions against constraints and edge cases  
 
-Selecting suitable algorithms and data structures
+This mirrors **real-world engineering workflows** where:
 
-Writing readable and explainable code
+> Clarity, correctness, and justification matter more than just getting the output.
 
-Validating solutions against constraints and edge cases
+---
 
-This mirrors real-world engineering workflows where clarity, correctness, and justification matter.
+## ⚠️ Disclaimer
 
-⚠️ Disclaimer
+This repository is intended **strictly for educational purposes**.
 
-This repository is intended strictly for educational purposes.
-All solutions represent our understanding during the competition period.
+All solutions represent **our understanding and approach during the competition period**.
+
+---
+
+## 👨‍💻 Team Lead
+
+**Pasindu Harsha**
+
+---
+
+## ⭐ If you find this repository useful, please give it a star!
